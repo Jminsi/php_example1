@@ -1,13 +1,6 @@
 
 <?php include "menu.php" ?>
 
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title></title>
-  </head>
-  <body>
     <hi> PHP Basic </hi>
      <?php
      $myname="Minsi";
@@ -50,5 +43,4 @@
      }
      echo '</ul>'
       ?>
-  </body>
-</html>
+      <?php include "footer.php; ?>

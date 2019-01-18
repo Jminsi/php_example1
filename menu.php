@@ -9,6 +9,9 @@
     <ul>
       <li> <a href="fisrt.php"> Basic </a> </li>
       <li> <a href="second.php"> Aarray </a> </li>
+      <li> <a href="third.php"> Forms </a> </li>
+      <li> <a href="forth.php"> Forms </a> </li>
+      <li> <a href="fift.php"> Forms </a> </li>
     </ul>
-  </body>
+</body>
 </html>
